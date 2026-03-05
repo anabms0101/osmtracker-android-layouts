@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+  <layout name="root">
+    <row>
+      <button type="voicerec" icon="voice_32x32"/>
+      <button type="picture" icon="camera_32x32"/>
+      <button type="textnote" icon="text_32x32"/>
+    </row>
+    <row>
+      <button type="tag" label="Soda" icon="hidrantes_icons/marker.png"/>
+      <button type="tag" label="Comida rapida" icon="hidrantes_icons/App-01.png"/>
+      <button type="tag" label="Menu" icon="hidrantes_icons/App-02.png"/>
+      <button type="tag" label="Ventana" icon="hidrantes_icons/App-02.png"/>
+    </row>
+  </layout>
+</layouts>

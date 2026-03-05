@@ -10,7 +10,6 @@
       <button type="tag" label="Soda" icon="layouts/Restaurants/Restaurant_icons/restaurante.png"/>
       <button type="tag" label="Comida rapida" icon="layouts/Restaurants/Restaurant_icons/rapido.png"/>
       <button type="tag" label="Menu" icon="layouts/Restaurants/Restaurant_icons/menu.png"/>
-      <button type="tag" label="Ventana" icon="layouts/Restaurants/Restaurant_icons/ventana.png"/>
     </row>
   </layout>
 </layouts>

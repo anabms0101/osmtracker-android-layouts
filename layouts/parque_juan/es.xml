@@ -1,4 +1,3 @@
-
 <layouts>
 
  <layout name="root">
@@ -8,9 +7,25 @@
    <button type="textnote" icon="text_32x32" />
   </row>
   <row>
-   <button type="tag" label="Test" icon="arboles" />
+   <button type="tag" label="Árbol" icon="icons/arboles"/>
+   <button type="tag" label="Banca" icon="icons/bancas.png" />
+   <button type="tag" label="Basurero" icon="icons/basura.png" />
   </row>
-
+  <row>
+   <button type="tag" label="Juegos infantiles" icon="icons/juegos_ninos.png" />
+   <button type="tag" label="Máquinas ejercicio" icon="icons/maquinas_ejercicio.png" />
+   <button type="tag" label="Mural" icon="icons/murales.png" />
+  </row>
+  <row>
+   <button type="tag" label="Estatua/Monumento" icon="icons/estatuas_monumentos.png" />
+   <button type="tag" label="Camino/Acera" icon="icons/caminos_aceras.png" />
+   <button type="tag" label="Poste luz ornamental" icon="icons/postes_luz_1.png" />
+  </row>
+  <row>
+   <button type="tag" label="Señal informativa" icon="icons/senales_1.png" />
+   <button type="tag" label="Señal parque" icon="icons/senales_2.png" />
+   <button type="tag" label="Poste luz moderno" icon="icons/postes_luz_2.png" />
+  </row>
 
  </layout>
 </layouts>

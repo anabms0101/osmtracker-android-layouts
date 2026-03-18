@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <layouts>
 
  <layout name="root">
@@ -20,14 +20,13 @@
   <row>
    <button type="tag" label="Estatua/Monumento" icon="icons/estatuas_monumentos.png" />
    <button type="tag" label="Camino/Acera" icon="icons/caminos_aceras.png" />
-  </row>
-  <row>
    <button type="tag" label="Poste luz ornamental" icon="icons/postes_luz_1.png" />
-   <button type="tag" label="Poste luz moderno" icon="icons/postes_luz_2.png" />
   </row>
   <row>
    <button type="tag" label="Señal informativa" icon="icons/senales_1.png" />
    <button type="tag" label="Señal parque" icon="icons/senales_2.png" />
+   <button type="tag" label="Poste luz moderno" icon="icons/postes_luz_2.png" />
   </row>
+
  </layout>
 </layouts>

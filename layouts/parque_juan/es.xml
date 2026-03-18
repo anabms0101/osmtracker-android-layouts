@@ -8,7 +8,7 @@
    <button type="textnote" icon="text_32x32" />
   </row>
   <row>
-   <button type="tag" label="Árbol" icon="file:///android_asset/layouts/parque_juan/icons/arboles.png"/>
+   <button type="tag" label="Árbol" icon="arboles.png"/>
    <button type="tag" label="Banca" icon="icons/bancas.png" />
    <button type="tag" label="Basurero" icon="icons/basura.png" />
   </row>

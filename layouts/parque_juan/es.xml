@@ -10,7 +10,7 @@
   <row>
    <button type="tag" label="Árbol" icon="./icons/arboles.png" />
    <button type="tag" label="Banca" icon="icons/bancas.png" />
-   <button type="tag" label="Basurero" icon="icons/basureros.png" />
+   <button type="tag" label="Basurero" icon="icons/basura.png" />
   </row>
   <row>
    <button type="tag" label="Juegos infantiles" icon="icons/juegos_ninos.png" />

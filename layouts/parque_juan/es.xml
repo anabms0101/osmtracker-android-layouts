@@ -1,6 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <layouts>
 
  <layout name="root">
+  <row>
+   <button type="voicerec" icon="voice_32x32" />
+   <button type="picture" icon="camera_32x32" />
+   <button type="textnote" icon="text_32x32" />
+  </row>
   <row>
    <button type="tag" label="Árbol" icon="icons/arboles.png" />
    <button type="tag" label="Banca" icon="icons/bancas.png" />
@@ -24,5 +30,4 @@
    <button type="tag" label="Señal parque" icon="icons/senales_2.png" />
   </row>
  </layout>
-
 </layouts>

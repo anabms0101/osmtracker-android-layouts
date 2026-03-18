@@ -1,73 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <layouts>
 
-    <layout name="Elementos de Parque" />
-
-    <page name="Principal">
-
-        <row>
-            <button
-                label="Árbol"
-                tag="natural=tree"
-                img="icons/arboles.png" />
-            <button
-                label="Banca"
-                tag="amenity=bench"
-                img="icons/bancas.png" />
-            <button
-                label="Basurero"
-                tag="amenity=waste_basket"
-                img="icons/basureros.png" />
-        </row>
-
-        <row>
-            <button
-                label="Juegos infantiles"
-                tag="leisure=playground"
-                img="icons/juegos_ninos.png" />
-            <button
-                label="Máquinas de ejercicio"
-                tag="leisure=fitness_station"
-                img="icons/maquinas_ejercicio.png" />
-            <button
-                label="Mural"
-                tag="artwork_type=mural tourism=artwork"
-                img="icons/murales.png" />
-        </row>
-
-        <row>
-            <button
-                label="Estatua / Monumento"
-                tag="artwork_type=statue tourism=artwork"
-                img="icons/estatuas_monumentos.png" />
-            <button
-                label="Camino / Acera"
-                tag="highway=footway"
-                img="icons/caminos_aceras.png" />
-        </row>
-
-        <row>
-            <button
-                label="Poste de luz (ornamental)"
-                tag="highway=street_lamp lamp_mount=pole"
-                img="icons/postes_luz_1.png" />
-            <button
-                label="Poste de luz (moderno)"
-                tag="highway=street_lamp lamp_mount=straight_mast"
-                img="icons/postes_luz_2.png" />
-        </row>
-
-        <row>
-            <button
-                label="Señal informativa"
-                tag="information=guidepost tourism=information"
-                img="icons/senales_1.png" />
-            <button
-                label="Señal de parque / juegos"
-                tag="information=sign tourism=information"
-                img="icons/senales_2.png" />
-        </row>
-
-    </page>
+ <layout name="root">
+  <row>
+   <button type="tag" label="Árbol" icon="icons/arboles.png" />
+   <button type="tag" label="Banca" icon="icons/bancas.png" />
+   <button type="tag" label="Basurero" icon="icons/basureros.png" />
+  </row>
+  <row>
+   <button type="tag" label="Juegos infantiles" icon="icons/juegos_ninos.png" />
+   <button type="tag" label="Máquinas ejercicio" icon="icons/maquinas_ejercicio.png" />
+   <button type="tag" label="Mural" icon="icons/murales.png" />
+  </row>
+  <row>
+   <button type="tag" label="Estatua/Monumento" icon="icons/estatuas_monumentos.png" />
+   <button type="tag" label="Camino/Acera" icon="icons/caminos_aceras.png" />
+  </row>
+  <row>
+   <button type="tag" label="Poste luz ornamental" icon="icons/postes_luz_1.png" />
+   <button type="tag" label="Poste luz moderno" icon="icons/postes_luz_2.png" />
+  </row>
+  <row>
+   <button type="tag" label="Señal informativa" icon="icons/senales_1.png" />
+   <button type="tag" label="Señal parque" icon="icons/senales_2.png" />
+  </row>
+ </layout>
 
 </layouts>
